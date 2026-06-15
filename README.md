@@ -21,7 +21,8 @@ To design a visually appealing travel homepage that encourages exploration while
 - Implementation of social proof patterns
 
 ## UI Design for travel webpage
-<img width="383" height="806" alt="travel webpage-ui" src="https://github.com/user-attachments/assets/dce358e9-820d-4bd8-b3cd-27cefe265657" />
+<img width="1440" height="2993" alt="figma - travel webpage design" src="https://github.com/user-attachments/assets/7d1376eb-8deb-4c03-8bed-983b619d1586" />
+
 
 ## Tools Used
 - Figma
