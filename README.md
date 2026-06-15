@@ -20,6 +20,9 @@ To design a visually appealing travel homepage that encourages exploration while
 - Refinement of visual hierarchy
 - Implementation of social proof patterns
 
+## UI Design for travel webpage
+<img width="383" height="806" alt="travel webpage-ui" src="https://github.com/user-attachments/assets/dce358e9-820d-4bd8-b3cd-27cefe265657" />
+
 ## Tools Used
 - Figma
 
